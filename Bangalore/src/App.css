@@ -1,0 +1,25 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  font-family: 'Poppins';
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  margin: auto;
+  color: #565859;
+  background-color: #F1F4F4;
+}
+
+.wrapper {
+  width: 60%;
+  table-layout: fixed;
+  background-color: white;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin: auto;
+
+  @media screen and (max-width: 700px) {
+      width: 100%;
+  }
+}

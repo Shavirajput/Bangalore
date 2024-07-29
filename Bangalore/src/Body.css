@@ -1,0 +1,40 @@
+p{
+    color: black;
+    padding: 0.2rem;
+    font-family: 'poppins' , sans-serif;
+    font-size: medium;
+    margin: 1rem;
+}
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  .blue-Container{
+    background-color: #06025b;
+    width: auto;
+    height: 12.3rem;
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+  .blue-Container b{
+    color: #fff;        
+    }
+    li{
+        color: #fff;
+        padding: 0.3rem;
+    }
